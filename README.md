@@ -1,4 +1,3 @@
-README
 # About Me
 
 Hi there! My name is Zuhair Shah and I am a 2nd year student at York University. 
